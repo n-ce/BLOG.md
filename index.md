@@ -1,5 +1,6 @@
 <details>
 <summary>Menu</summary>
+
 [Home](#home)
 [About](#about)
 [Blogs](#blogs)
