@@ -1,4 +1,4 @@
-<meta name="theme-color" content="black">
+<meta name="theme-color" content="#282828">
 <details>
 <summary>Menu</summary>
 
