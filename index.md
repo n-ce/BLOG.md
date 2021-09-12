@@ -1,3 +1,4 @@
+<meta name="theme-color" content="black">
 <details>
 <summary>Menu</summary>
 
